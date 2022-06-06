@@ -1,5 +1,5 @@
 # Problem
-## <img src='https://github.com/goldenfly/Javascript-coding-challenge/MinAbsSum.png' />
+## <img src='https://github.com/goldenfly/Javascript-coding-challenge/blob/d8b00a508da4126031bc8ec0ece9274deb4c3146/MinAbsSum.png' />
 ```
 const solution = (A) => {
     const leng = A.length;
